@@ -1,0 +1,72 @@
+[
+    {
+        "id": "001",
+        "real-name": "Thor Odinson",
+        "superhero-name": "Thor",
+        "power": "lightning, hammer(Mjolnir and Stormbreaker)",
+        "image": "../src/images/thor.jpg"
+    },
+    {
+        "id": "002",
+        "real-name": "Tony Stark",
+        "superhero-name": "Ironman",
+        "power": "metal suits",
+        "image": "../src/images/ironman.jpg"
+    },
+    {
+        "id": "003",
+        "real-name": "Steve Rogers",
+        "superhero-name": "Captain America",
+        "power": "super soldier, vibranium shield",
+        "image": "../src/images/cap.jpg"
+    },
+    {
+        "id": "004",
+        "real-name": "James Howlett Logan",
+        "superhero-name": "Wolverine",
+        "power": "immortal, regenerative healing, metal claws",
+        "image": "../src/images/thor.jpg"
+    },
+    {
+        "id": "005",
+        "real-name": "James Bucky Barnes",
+        "superhero-name": "Winter Soldier",
+        "power": "super strength, metal arm",
+        "image": "../src/images/wintersoldierjpeg.jpg"
+    },
+    {
+        "id": "006",
+        "real-name": "James Rhodey",
+        "superhero-name": "War Machine",
+        "power": "heavy metal suits",
+        "image": "../src/images/champion-war-machine.jpg"
+    },
+    {
+        "id": "007",
+        "real-name": "Bruce Banner",
+        "superhero-name": "Hulk",
+        "power": "superhuman strength, regenerative healing",
+        "image": "../src/images/hulk.jpg"
+    },
+    {
+        "id": "008",
+        "real-name": "Clint Barton",
+        "superhero-name": "Hawkeye",
+        "power": "bow and arrow",
+        "image": "../src/images/hawkeye.jpg"
+    },
+    {
+        "id": "009",
+        "real-name": "Johnny Blaze",
+        "superhero-name": "Ghost Rider",
+        "power": "penance stare, super strength, metal chain",
+        "image": "../src/images/Ghost_Rider.jpg"
+    },
+    {
+        "id": "010",
+        "real-name": "Scott Lang",
+        "superhero-name": "Ant Man",
+        "power": "shrinking suit, blasters",
+        "image": "../src/images/champion-ant-man.jpg"
+    }
+]
