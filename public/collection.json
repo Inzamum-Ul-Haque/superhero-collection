@@ -4,69 +4,69 @@
         "real-name": "Thor Odinson",
         "superhero-name": "Thor",
         "power": "lightning, hammer(Mjolnir and Stormbreaker)",
-        "image": "../src/images/thor.jpg"
+        "image": "https://w0.peakpx.com/wallpaper/477/401/HD-wallpaper-thor-in-avengers-endgame-thumbnail.jpg"
     },
     {
         "id": "002",
         "real-name": "Tony Stark",
         "superhero-name": "Ironman",
         "power": "metal suits",
-        "image": "../src/images/ironman.jpg"
+        "image": "https://i.pinimg.com/474x/8e/eb/e1/8eebe11cec68e1d4732e71e3f0411cc2.jpg"
     },
     {
         "id": "003",
         "real-name": "Steve Rogers",
         "superhero-name": "Captain America",
         "power": "super soldier, vibranium shield",
-        "image": "../src/images/cap.jpg"
+        "image": "https://i.pinimg.com/550x/97/bf/27/97bf27becd0df4ff387b882572925416.jpg"
     },
     {
         "id": "004",
         "real-name": "James Howlett Logan",
         "superhero-name": "Wolverine",
         "power": "immortal, regenerative healing, metal claws",
-        "image": "../src/images/thor.jpg"
+        "image": "https://i.ndtvimg.com/i/2015-07/hugh-jackman_640x480_41438077518.jpg"
     },
     {
         "id": "005",
         "real-name": "James Bucky Barnes",
         "superhero-name": "Winter Soldier",
         "power": "super strength, metal arm",
-        "image": "../src/images/wintersoldierjpeg.jpg"
+        "image": "https://i.pinimg.com/736x/03/f4/f1/03f4f193432f52fa941526ffe6461e50--winter-soldier-bucky-marvel-art.jpg"
     },
     {
         "id": "006",
         "real-name": "James Rhodey",
         "superhero-name": "War Machine",
         "power": "heavy metal suits",
-        "image": "../src/images/champion-war-machine.jpg"
+        "image": "https://2v7smn27y3922e05obea523d-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/champion-war-machine.jpg"
     },
     {
         "id": "007",
         "real-name": "Bruce Banner",
         "superhero-name": "Hulk",
         "power": "superhuman strength, regenerative healing",
-        "image": "../src/images/hulk.jpg"
+        "image": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/14/1522871567-aif3.jpg?resize=480:*"
     },
     {
         "id": "008",
         "real-name": "Clint Barton",
         "superhero-name": "Hawkeye",
         "power": "bow and arrow",
-        "image": "../src/images/hawkeye.jpg"
+        "image": "https://insidethemagic.net/wp-content/uploads/2020/02/avengers-endgame-why-hawkeye-cut-infinity-war-1181035-1280x0-1-800x400.jpeg"
     },
     {
         "id": "009",
         "real-name": "Johnny Blaze",
         "superhero-name": "Ghost Rider",
         "power": "penance stare, super strength, metal chain",
-        "image": "../src/images/Ghost_Rider.jpg"
+        "image": "https://image.tmdb.org/t/p/w500/bZBasloaMhjxCwH6tV0eziNMqut.jpg"
     },
     {
         "id": "010",
         "real-name": "Scott Lang",
         "superhero-name": "Ant Man",
         "power": "shrinking suit, blasters",
-        "image": "../src/images/champion-ant-man.jpg"
+        "image": "https://2v7smn27y3922e05obea523d-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/champion-ant-man.jpg"
     }
 ]
