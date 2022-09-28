@@ -15,7 +15,9 @@ const Collection = () => {
   return (
     <div className="container">
       <div className="collections-container">
-        <Products cards={cards} />
+        {cards.map((card) => (
+          <Products key={card.id} card={card} />
+        ))}
       </div>
       <div className="cart-container">
         <Cart />
